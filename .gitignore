@@ -1,0 +1,8 @@
+cpp.errors
+java.errors
+check.sh
+Makefile.PA
+Makefile.template
+README.checker
+public_tests/*
+_utils/*
