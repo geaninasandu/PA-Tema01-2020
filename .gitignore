@@ -6,3 +6,4 @@ Makefile.template
 README.checker
 public_tests/*
 _utils/*
+.idea/*
