@@ -1,13 +1,11 @@
 # Tema01 PA 2020
---------------
 
-#### Scopul temei
-----------
+## Scopul temei
 
 Familiarizarea cu tehnici de programare precum Greedy si programare dinamica.
 
-#### Implementare
-----------
+
+## Implementare
 
 ##### Problema 1 - Bani
 
