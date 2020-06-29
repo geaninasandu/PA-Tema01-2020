@@ -36,4 +36,3 @@ Familiarizarea cu tehnici de programare precum Greedy si programare dinamica.
 - Retinem in variabila combinations_number suma elementelor din matricea dp de la [j - max] la [j - min] de pe linia precedenta, care reprezinta numarul de combinatii prin care se poate obtine suma j cu ajutorul intervalelor de pana acum.
 - Vom obtine astfel pe ultimul element al matricei numarul total de moduri in care putem obtine suma M.
 - *Complexitate: O(M * N)*
-----------
